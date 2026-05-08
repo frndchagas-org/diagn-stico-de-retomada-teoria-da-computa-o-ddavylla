@@ -95,7 +95,8 @@ Responda:
 | 0       | q1     |
 | 1       | q2     |
 
-  CADEIA 100
+CADEIA 100
+
 | Símbolo | Estado |
 | ------- | -------|
 | início  | q0     |
