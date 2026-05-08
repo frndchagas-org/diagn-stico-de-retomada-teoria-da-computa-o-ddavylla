@@ -87,6 +87,7 @@ Responda:
    - `1101` - aceita
    - `111` - rejeita
 3. Monte uma tabela curta mostrando o caminho dos estados para pelo menos duas cadeias.
+   
    CADEIA 01
 | Símbolo | Estado |
 | ------- | -------|
