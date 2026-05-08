@@ -88,7 +88,7 @@ Responda:
    - `111` - rejeita
 3. Monte uma tabela curta mostrando o caminho dos estados para pelo menos duas cadeias.
    
-   CADEIA 01
+CADEIA 01
 | Símbolo | Estado |
 | ------- | -------|
 | início  | q0     |
@@ -96,7 +96,6 @@ Responda:
 | 1       | q2     |
 
 CADEIA 100
-
 | Símbolo | Estado |
 | ------- | -------|
 | início  | q0     |
